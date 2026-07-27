@@ -89,7 +89,8 @@ Snort provided real-time alerts whenever traffic matched a configured rule, whic
 
 Snort 3 was successfully configured as a Network Intrusion Detection System. Custom rules were created to detect ICMP, HTTP, and HTTPS traffic, and real-time monitoring and alert generation were tested successfully — confirming Snort's ability to identify suspicious network activity.
 
-Author
+##Author:
+
 Nida Kanwal
 
 Cyber Security Internship - CodeAlpha
